@@ -139,7 +139,7 @@ class OneHeaderL extends StatelessWidget {
                     width: 150,
                     height: 50,
                   )),
-              SizedBox(width: 13,),
+              SizedBox(width: 2,),
               GestureDetector(
                   onTap: () {
                     launchURL(playStoreUrl);
@@ -259,7 +259,7 @@ class _TextimonialState extends State<Textimonial> {
             : MediaQuery.of(context).size.width,
         alignment: Alignment.center,
         child: SizedBox(
-          height: 370,
+          height: 400,
           child: ListView.builder(
               shrinkWrap: true,
               physics: ClampingScrollPhysics(),
@@ -463,7 +463,7 @@ class BelowBottom extends StatelessWidget {
                     width: 150,
                     height: 50,
                   )),
-              SizedBox(width: 20,),
+              SizedBox(width: 2,),
               GestureDetector(
                   onTap: () {
                     launchURL(playStoreUrl);
@@ -675,7 +675,7 @@ class FeatureTileText extends StatelessWidget {
                     width: 150,
                     height: 50,
                   )),
-              SizedBox(width: 20,),
+              SizedBox(width: 2,),
               GestureDetector(
                   onTap: () {
                     launchURL(playStoreUrl);
