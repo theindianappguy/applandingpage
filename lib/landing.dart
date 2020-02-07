@@ -139,7 +139,7 @@ class OneHeaderL extends StatelessWidget {
                     width: 150,
                     height: 50,
                   )),
-              SizedBox(width: 20,),
+              SizedBox(width: 13,),
               GestureDetector(
                   onTap: () {
                     launchURL(playStoreUrl);
@@ -501,6 +501,7 @@ class _AppFeaturesListState extends State<AppFeaturesList> {
       child: ListView.builder(
           itemCount: myAppFeatures.length,
           shrinkWrap: true,
+          physics: ClampingScrollPhysics(),
           itemBuilder: (context, index) {
             return AppFeatureTile(
               title: myAppFeatures[index].getFeatureTitle(),
