@@ -13,14 +13,19 @@ String appHeading = "Fastest & Easiest Test Maker/ Test Builder";
 String appDescription = "Struggling to find the best test maker your search end here MarksZen is the Fastest & Easiest Quiz Maker/ Test Builder Download Now!";
 
 /// Two
-String title = "Create, Test, and Share";
-String description = "MarksZen is a test making app that gives you the ability to create, take, and share your quizzes in an easy, quick and painless way.";
+String maintitle = "Create, Test, and Share";
+String maindescription = "MarksZen is a test making app that gives you the ability to create, take, and share your quizzes in an easy, quick and painless way.";
 
 String closingTitle = "Making Quiz/Test Was Never This EASY";
 String closingDescription = "so what are you waiting for, Download Now";
 String coverImage = "coverImage.png";
 
 String finaCalltoAction = "What are you waiting for? Download today!";
+String youtubeVideoUrl = "https://www.youtube.com/channel/UCsPdgUIoOBTBI1UmulW1pdw";
+
+String aboutUsUrl = "https://www.linkedin.com/in/lamsanskar/";
+String PrivacypolicyUrl = "";
+String ContactUsUrl = "";
 
 List<TestimonialModel> getTestimonials(){
 
@@ -98,49 +103,33 @@ List<AppFeatureModel> getAppFeatures(){
 
   appFeatureModel = new AppFeatureModel();
 
-  //1
+  //2
   appFeatureModel.setImagePath("header_screenshot.png");
-  appFeatureModel.setFeatureTitle("Making Test Was Never So Easy");
-  appFeatureModel.setFeatureDescription("So how does an app can make test when people spend hours making one on PC or Laptop, because these .");
+  appFeatureModel.setFeatureTitle("Get Detailed Result Analysis");
+  appFeatureModel.setFeatureDescription("Get Detailed analysis of each and every question you attempted with correct answer to check what you did wrong and what you did right.");
   appFeatures.add(appFeatureModel);
 
   appFeatureModel = new AppFeatureModel();
 
-
-  //1
+  //3
   appFeatureModel.setImagePath("header_screenshot.png");
-  appFeatureModel.setFeatureTitle("Making Test Was Never So Easy");
-  appFeatureModel.setFeatureDescription("So how does an app can make test when people spend hours making one on PC or Laptop, because these .");
+  appFeatureModel.setFeatureTitle("Make Study Fun With Markszen");
+  appFeatureModel.setFeatureDescription("Student Learn Quicker and Easier when learning is fun.");
   appFeatures.add(appFeatureModel);
 
   appFeatureModel = new AppFeatureModel();
 
-  //1
-  appFeatureModel.setImagePath("header_screenshot.png");
-  appFeatureModel.setFeatureTitle("Making Test Was Never So Easy");
-  appFeatureModel.setFeatureDescription("So how does an app can make test when people spend hours making one on PC or Laptop, because these .");
-  appFeatures.add(appFeatureModel);
-
-  appFeatureModel = new AppFeatureModel();
-
-  //1
-  appFeatureModel.setImagePath("header_screenshot.png");
-  appFeatureModel.setFeatureTitle("Making Test Was Never So Easy");
-  appFeatureModel.setFeatureDescription("So how does an app can make test when people spend hours making one on PC or Laptop, because these .");
-  appFeatures.add(appFeatureModel);
-
-  appFeatureModel = new AppFeatureModel();
 
   return appFeatures;
 
 
 }
 
-List<FeatureTileModel> getFeaturesTiles(){
-  
+List<FeatureTileModel> getFeaturesTiles1(){
+
   List<FeatureTileModel> tileFeatures = new List<FeatureTileModel>();
   FeatureTileModel featureTileModel = new FeatureTileModel();
-  
+
   //1
   featureTileModel.setImagePath("header_screenshot.png");
   featureTileModel.setTitle("Create Unlimited Quiz");
@@ -165,6 +154,13 @@ List<FeatureTileModel> getFeaturesTiles(){
 
   featureTileModel = new FeatureTileModel();
 
+  return tileFeatures;
+}
+
+List<FeatureTileModel> getFeaturesTiles2(){
+
+  List<FeatureTileModel> tileFeatures = new List<FeatureTileModel>();
+  FeatureTileModel featureTileModel = new FeatureTileModel();
 
   //4
   featureTileModel.setImagePath("header_screenshot.png");
