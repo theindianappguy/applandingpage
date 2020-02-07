@@ -262,6 +262,7 @@ class _TextimonialState extends State<Textimonial> {
           height: 370,
           child: ListView.builder(
               shrinkWrap: true,
+              physics: ClampingScrollPhysics(),
               scrollDirection: Axis.horizontal,
               itemCount: myAppTestimonials.length,
               itemBuilder: (context, index) {
@@ -743,6 +744,7 @@ class _FeatureSliderState extends State<FeatureSlider> {
                     child: ListView.builder(
                       itemCount: 3,
                         shrinkWrap: true,
+                        physics: ClampingScrollPhysics(),
                         itemBuilder: (context, index){
                         return FeaturesTile(
                           title: features[index].getTitle(),
@@ -767,6 +769,7 @@ class _FeatureSliderState extends State<FeatureSlider> {
                   width: MediaQuery.of(context).size.width/3,
                     child: ListView.builder(
                         itemCount: 3,
+                        physics: ClampingScrollPhysics(),
                         shrinkWrap: true,
                         itemBuilder: (context, index){
                           return FeaturesTile(
@@ -784,6 +787,7 @@ class _FeatureSliderState extends State<FeatureSlider> {
                     child: ListView.builder(
                         itemCount: 3,
                         shrinkWrap: true,
+                        physics: ClampingScrollPhysics(),
                         itemBuilder: (context, index){
                           return FeaturesTile(
                             title: features[index].getTitle(),
@@ -805,6 +809,7 @@ class _FeatureSliderState extends State<FeatureSlider> {
                   Container(
                     child: ListView.builder(
                         itemCount: 3,
+                        physics: ClampingScrollPhysics(),
                         shrinkWrap: true,
                         itemBuilder: (context, index){
                           return FeaturesTile(
