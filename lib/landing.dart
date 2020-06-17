@@ -45,7 +45,7 @@ class OneHeader extends StatelessWidget {
       padding: EdgeInsets.only(bottom: 50, top: 70),
       decoration: BoxDecoration(
           gradient: LinearGradient(
-              colors: [const Color(0xffFEB692), const Color(0xffEA5455)])),
+              colors: [const Color(0xffABDCFF), const Color(0xff0396FF)])),
       child: ResponsiveWidget(
         largeScreen: Container(
           width: MediaQuery.of(context).size.width > 1000
