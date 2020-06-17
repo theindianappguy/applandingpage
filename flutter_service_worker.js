@@ -22,7 +22,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/AssetManifest.json": "fc6327f3682f95e6238af403faa2c14f",
-"main.dart.js": "14dfc1853fe0419e734295471d608490",
+"main.dart.js": "79e3868c384fa4ca4c93a8c744ba62ad",
 "index.html": "e416935b94894f87900942982c99e2ac",
 "/": "e416935b94894f87900942982c99e2ac"
 };
