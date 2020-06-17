@@ -9,6 +9,7 @@ const RESOURCES = {
 "assets/assets/test.png": "1b7c2584ba476e4e0e000efcf6aca260",
 "assets/assets/app_store_badge.png": "ae7be9530c10b37833b0bcc95061e9b4",
 "assets/assets/coverImage.png": "d2726be69b95fa80e9450be955b15640",
+"assets/assets/logo.png": "1842e35a6141bd88810261420b52d2ae",
 "assets/assets/Screenshot%25202020-02-07%2520at%252012.05.21%2520AM.png": "ba8b55ca51a952d184939782e3f5b15d",
 "assets/assets/Markszen_quiz_maker-oemi2wflfse0fx030vvjoqer03huigy1n0w5df93a8.png": "7313fcf69351050c67704da8bd558a39",
 "assets/assets/google_play_button.png": "f3cc4c4560beac398eda0ec85949da4b",
@@ -20,7 +21,7 @@ const RESOURCES = {
 "assets/NOTICES": "f25db507f30294cd9afa8d088ceac3be",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/AssetManifest.json": "d028ea694b42282be8996802a311f59a",
+"assets/AssetManifest.json": "fc6327f3682f95e6238af403faa2c14f",
 "main.dart.js": "14dfc1853fe0419e734295471d608490",
 "index.html": "e416935b94894f87900942982c99e2ac",
 "/": "e416935b94894f87900942982c99e2ac"
