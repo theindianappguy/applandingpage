@@ -1,16 +1,16 @@
-# applandingpage
+![Built on Flutterweb](https://user-images.githubusercontent.com/55942632/74025334-ba3c7580-49c9-11ea-9ce6-053961473269.png)
+    
+<p>
+<a href="https://www.linkedin.com/in/lamsanskar/">
+    <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
-A new Flutter project.
+<a href="http://bit.ly/399s9gB">
+    <img src="https://img.shields.io/badge/Flutter%20Web-Live%20Demo-green?style=for-the-badge&logo=flutter" alt="Try Live Demo" /></a>
+</p>
 
-## Getting Started
+App Landing Page made with Flutterweb, Hosted on Codemagic. Don't forget to star ⭐ the repo it motivates me to share more open source
 
-This project is a starting point for a Flutter application.
+Host this on Firebase https://www.youtube.com/watch?v=xm5A5bCXviE.
 
-A few resources to get you started if this is your first Flutter project:
+if you are interested to learn how to build android, ios, web, macOS, desktop apps all from one source code I teach it for free on Youtube( No Ads) https://www.youtube.com/SanskarTiwari.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
