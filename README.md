@@ -12,5 +12,13 @@ App Landing Page made with Flutterweb, Hosted on Codemagic. Don't forget to star
 
 Host this on Firebase https://www.youtube.com/watch?v=xm5A5bCXviE.
 
+
+### Created & Maintained By
+
+[Sanskar Tiwari](https://github.com/theindianappguy) ([@indianappguy](https://twitter.com/indianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
+
+> If you found this project helpful or you learned something from the source code and want to thank me,
+> consider checking out what i am building at [MagicSlides.app](https://www.magicslides.app), [MagicForm.app](https://www.magicform.app) & [SheetAI.app](https://www.sheetai.app)
+
 if you are interested to learn how to build android, ios, web, macOS, desktop apps all from one source code I teach it for free on Youtube( No Ads) https://www.youtube.com/SanskarTiwari.
 
